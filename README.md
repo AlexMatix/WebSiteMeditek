@@ -1,0 +1,1 @@
+En este repositorio se encontrará el WebSIte de proyecto Meditec para el acceso a la plataforma e información de la misma. 
